@@ -1,0 +1,7 @@
+- id
+- name
+- class name
+- css
+- xpath
+
+tag attribute innertext
